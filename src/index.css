@@ -1,0 +1,19 @@
+.card {
+  background-color: beige;
+  max-width: 200px;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  text-align: center;
+  display: inline-block ;
+
+}
+
+.card img{
+  width: 200px;
+}
+
+.footer {
+  text-align: center;
+}
