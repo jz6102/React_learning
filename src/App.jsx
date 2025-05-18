@@ -8,6 +8,9 @@ function App() {
   return (
     <>
     <CourseList/>
+     <a href="/cv.pdf" download="My_CV.pdf">
+        <button>Download CV</button>
+      </a>
     <Footer/>
     </>
   );
